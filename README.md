@@ -1,6 +1,6 @@
-# Enterprise Security Program
+# Enterprise Security Program: Policies, Standards & Procedures (NIST SP 800-53, PCI DSS)
 
-> A comprehensive information security program developed for a fictional e-commerce company preparing to go public, covering access control, encryption, compliance, risk management, and more.
+> A full information security program for a fictional e-commerce company preparing for IPO, structured as a governance hierarchy of a plan, policies, standards, and procedures mapped to NIST SP 800-53 and aligned with PCI DSS.
 
 ---
 
